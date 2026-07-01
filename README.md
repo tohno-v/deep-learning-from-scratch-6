@@ -17,6 +17,10 @@
 |`webbot`   |WebBotで使用するコードやデータ |
 <!-- |`notebooks`   |1章〜6章までのコード（Jupyter Notebook形式）| -->
 
+## 学習ガイド
+
+リポジトリの読み進め方とDeep Learningの基本概念は、[Deep Learning 学習ガイド](docs/deep-learning-guide.md)を参照してください。
+
 ## Pythonと外部ライブラリ
 
 ソースコードを実行するには下記のライブラリが必要です。
